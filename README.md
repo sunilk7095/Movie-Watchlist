@@ -8,6 +8,8 @@ This application combines:
 - Frontend: React.js (CDN based)
 - API: RESTful API
 
+- 
+
 Users can add movies, mark them as watched/unwatched, search movies, filter movies, and delete movies.
 
 ---
