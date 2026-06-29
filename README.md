@@ -10,9 +10,6 @@ This application combines:
 
 - 
 
-
-
-
 Users can add movies, mark them as watched/unwatched, search movies, filter movies, and delete movies.
 
 ---
