@@ -14,6 +14,7 @@ Users can add movies, mark them as watched/unwatched, search movies, filter movi
 
 ---
 
+
 ## 🚀 Features
 
 ✅ Add movies to watchlist  
